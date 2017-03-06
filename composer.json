@@ -3,7 +3,7 @@
     "description": "Symfony bundle for nexttalent/acumulus library",
     "type": "symfony-bundle",
     "require": {
-        "nexttalent/acumulus": "dev-master"
+        "nexttalent/acumulus": "0.1.*@dev"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.0"
